@@ -1,0 +1,18 @@
+{
+	"MigrateDataStoreDirectory": "/data/data/com.termux/files/home/vss/storage/psiphon/data/1081",
+	"UpstreamProxyURL": "http://127.0.0.1:8989",
+	"LocalSocksProxyPort": 1081,
+	"SponsorId": "0000000000000000",
+	"PropagationChannelId": "0000000000000000",
+	"EmitBytesTransferred": true,
+	"EmitDiagnosticNotices": true,
+	"DisableLocalHTTPProxy": true,
+	"EgressRegion": "SG",
+	"TunnelPoolSize": 1,
+	"ConnectionWorkerPoolSize": 2,
+	"LimitTunnelProtocols": [
+		"FRONTED-MEEK-HTTP-OSSH",
+		"FRONTED-MEEK-OSSH"
+	],
+	"Authorizations": []
+}
