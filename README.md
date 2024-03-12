@@ -4,7 +4,7 @@
 
 # COPY CODE LÀ DÒNG DƯỚI NÀY Ạ
 ```
-termux-setup-storage && pkg install git -y && apt upgrade -y && git clone https://github.com/hienhoanghien2006/vnw2.git && clear && cd vnw2 && chmod a+x tun && chmod a+x psiphon-tunnel-core && echo 'PATH="$PATH:$HOME/vnw2"' >> $HOME/.bashrc && source $HOME/.bashrc && echo 'PATH="$PATH:$HOME/vnw2"' >> $HOME/.zshrc && source $HOME/.zshrc && exit
+termux-setup-storage && pkg install git -y && apt upgrade -y && git clone https://github.com/trankhanhtuan/pvn.git && clear && cd pnv && chmod a+x tun && chmod a+x psiphon-tunnel-core && echo 'PATH="$PATH:$HOME/pnv"' >> $HOME/.bashrc && source $HOME/.bashrc && echo 'PATH="$PATH:$HOME/pnv"' >> $HOME/.zshrc && source $HOME/.zshrc && exit
 Requirements
 ```
 
